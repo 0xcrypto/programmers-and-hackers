@@ -7,3 +7,4 @@
 * https://github.com/dexteryy/spellbook-of-modern-webdev
 * http://norvig.com/
 * https://blog.codinghorror.com/
+* https://dzone.com/
