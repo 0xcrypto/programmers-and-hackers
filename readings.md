@@ -10,3 +10,4 @@
 * https://dzone.com/
 * http://openlife.cc/onlinebook
 * slashdot
+* http://www.startupsfortherestofus.com/
