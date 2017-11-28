@@ -9,5 +9,6 @@
 * https://blog.codinghorror.com/
 * https://dzone.com/
 * http://openlife.cc/onlinebook
-* slashdot
+* https://slashdot.org/
 * http://www.startupsfortherestofus.com/
+* https://towardsdatascience.com/
