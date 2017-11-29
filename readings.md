@@ -12,3 +12,4 @@
 * https://slashdot.org/
 * http://www.startupsfortherestofus.com/
 * https://towardsdatascience.com/
+* https://fishbowl.pastiche.org/
