@@ -13,3 +13,4 @@
 * http://www.startupsfortherestofus.com/
 * https://towardsdatascience.com/
 * https://fishbowl.pastiche.org/
+* https://philsturgeon.uk/
