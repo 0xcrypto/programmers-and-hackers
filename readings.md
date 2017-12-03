@@ -14,3 +14,4 @@
 * https://towardsdatascience.com/
 * https://fishbowl.pastiche.org/
 * https://philsturgeon.uk/
+* https://www.goetas.com/
