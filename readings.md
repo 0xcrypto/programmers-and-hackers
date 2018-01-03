@@ -1,18 +1,38 @@
 # A must read/follow list of books, blogs and articles around the cyber globe for hackers.
-* http://strangelyconsistent.org/
-* http://www.paulgraham.com/
+
+### Philosophy of Hackerdom
 * http://www.catb.org/esr/
-* http://c2.com/
 * https://www.ee.ryerson.ca/~elf/hack/index.html
-* https://github.com/dexteryy/spellbook-of-modern-webdev
+* http://openlife.cc/onlinebook
+
+### Hacker style programming
+* http://strangelyconsistent.org/
 * http://norvig.com/
 * https://blog.codinghorror.com/
-* https://dzone.com/
-* http://openlife.cc/onlinebook
-* https://slashdot.org/
-* http://www.startupsfortherestofus.com/
-* https://towardsdatascience.com/
+* http://c2.com/
 * https://fishbowl.pastiche.org/
-* https://philsturgeon.uk/
+
+### Web/App/Software Development
+* https://github.com/dexteryy/spellbook-of-modern-webdev
+* https://dzone.com/
 * https://www.goetas.com/
+* https://philsturgeon.uk/
+* https://hackernoon.com/
+* https://zapier.com/engineering
+* http://restcookbook.com
+
+### Infosec
+* https://hack-ed.net/
+* http://brutelogic.com.br/
+
+### News and updates
+* https://slashdot.org/
+* https://lwn.net/
+
+### Artificial Intelligence
 * https://aboveintelligent.com/
+* https://towardsdatascience.com/
+
+### Startup
+* http://www.startupsfortherestofus.com/
+* http://www.paulgraham.com/
