@@ -5,15 +5,16 @@
 * https://www.ee.ryerson.ca/~elf/hack/index.html
 * http://openlife.cc/onlinebook
 
-### Programming
+### Programming (wise beard talk)
 * http://strangelyconsistent.org/
 * http://norvig.com/
 * https://blog.codinghorror.com/
 * http://c2.com/
 * https://fishbowl.pastiche.org/
 * http://tech.puredanger.com/
+* http://heim.ifi.uio.no/~trygver/index.html
 
-### Web/App/Software Development
+### App Development (present programming)
 * https://github.com/dexteryy/spellbook-of-modern-webdev
 * https://dzone.com/
 * https://www.goetas.com/
