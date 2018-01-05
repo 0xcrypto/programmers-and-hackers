@@ -1,16 +1,17 @@
-# A must read/follow list of books, blogs and articles around the cyber globe for hackers.
+# A must read/follow list of books, blogs and articles for hackers.
 
 ### Philosophy of Hackerdom
 * http://www.catb.org/esr/
 * https://www.ee.ryerson.ca/~elf/hack/index.html
 * http://openlife.cc/onlinebook
 
-### Hacker style programming
+### Programming
 * http://strangelyconsistent.org/
 * http://norvig.com/
 * https://blog.codinghorror.com/
 * http://c2.com/
 * https://fishbowl.pastiche.org/
+* http://tech.puredanger.com/
 
 ### Web/App/Software Development
 * https://github.com/dexteryy/spellbook-of-modern-webdev
