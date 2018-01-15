@@ -13,6 +13,7 @@
 * https://fishbowl.pastiche.org/
 * http://tech.puredanger.com/
 * http://heim.ifi.uio.no/~trygver/index.html
+* http://pu.inf.uni-tuebingen.de/users/klaeren/
 
 ### App Development (present programming)
 * https://github.com/dexteryy/spellbook-of-modern-webdev
