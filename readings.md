@@ -31,6 +31,7 @@
 ### News and updates
 * https://slashdot.org/
 * https://lwn.net/
+* http://www.linuxjournal.com
 
 ### Artificial Intelligence
 * https://aboveintelligent.com/
