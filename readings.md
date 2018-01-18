@@ -32,6 +32,7 @@
 * https://slashdot.org/
 * https://lwn.net/
 * http://www.linuxjournal.com
+* https://www.usenix.org
 
 ### Artificial Intelligence
 * https://aboveintelligent.com/
