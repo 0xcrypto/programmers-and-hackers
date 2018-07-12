@@ -15,9 +15,8 @@
 * http://heim.ifi.uio.no/~trygver/index.html
 * http://pu.inf.uni-tuebingen.de/users/klaeren/
 
-### App Development (present programming)
+### Modern Development
 * https://github.com/dexteryy/spellbook-of-modern-webdev
-* https://dzone.com/
 * https://www.goetas.com/
 * https://philsturgeon.uk/
 * https://hackernoon.com/
@@ -41,3 +40,10 @@
 ### Startup
 * http://www.startupsfortherestofus.com/
 * http://www.paulgraham.com/
+
+### Communities
+* https://stackoverflow.com/
+* https://news.ycombinator.com/
+* http://dev.to/
+* https://dzone.com/
+* http://hashnode.com/
