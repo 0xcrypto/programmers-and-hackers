@@ -5,7 +5,7 @@
 * https://www.ee.ryerson.ca/~elf/hack/index.html
 * http://openlife.cc/onlinebook
 
-### Programming (wise beard talk)
+### Programming
 * http://strangelyconsistent.org/
 * http://norvig.com/
 * https://blog.codinghorror.com/
